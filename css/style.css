@@ -912,6 +912,14 @@ input{
 
     /* first section */
 
+    .box1 .left{
+        width: 50%;
+        text-align: left;
+    }
+    .box1 .right{
+        width: 40%;
+    }
+    
     .box1 .right span{
         margin-left: 0px;
     }
@@ -941,7 +949,7 @@ input{
     .box3{
         padding: 90px 0 0 0px;
         text-align: center;
-        height: 45vh;
+        height: 60vh;
     }
 
     .box3 h1{
