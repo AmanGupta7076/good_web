@@ -19,7 +19,7 @@ html{
 /* first section */
 
 .main{
-    height: 40px;
+    /* height: 40px; */
     width: 100%;
     background-color: #393939;
     color: antiquewhite;
@@ -44,7 +44,8 @@ html{
     margin: 0 auto;
 }
 .left-1{
-    width: 30% ;
+    width: 30%;
+    /* height: 80vh; */
 }
 
 .right-1{
@@ -798,7 +799,7 @@ input{
     .main{
         background-color: #393939;
         /* height:100px; */
-        padding-bottom: 90px;
+        /* padding-bottom: 90px; */
     }
     .box1 .right span{
         margin-left: 0px;
