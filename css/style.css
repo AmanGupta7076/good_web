@@ -698,7 +698,7 @@ input{
 
     .box2 .fa{
         /* margin-right: 5px; */
-        margin:20px;
+        margin:20px 0;
         color:#fff;
         border-radius:20px 0px 20px 0px;
         padding: 20px;
@@ -912,13 +912,11 @@ input{
 
     /* first section */
 
-    .box1 .left{
-        width: 50%;
-        text-align: left;
+    .box1 .left,.box1 .right{
+        width: 100%;
+        text-align: center;
     }
-    .box1 .right{
-        width: 40%;
-    }
+  
     
     .box1 .right span{
         margin-left: 0px;
